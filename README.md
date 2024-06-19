@@ -1,5 +1,7 @@
 # 3L-CVRP (IJCAI 2023 Workshop on Search and Planning with Complex Objectives (WoSePCO))
 
+Paper: https://arxiv.org/abs/2307.12136
+
 Solving the 3L-CVRP (as proposed by Gendreau et al.) with reinforcement learning (6-month MSc Thesis)
 ![gend_1_final](https://user-images.githubusercontent.com/47212405/133686104-6b316192-ff86-4997-ab42-058fdedb7537.gif)
 
