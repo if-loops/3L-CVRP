@@ -12,15 +12,4 @@ We develop a reinforcement learning model to solve the three-dimensional loading
 <img width="1003" alt="Screenshot 2021-09-16 at 22 10 13" src="https://user-images.githubusercontent.com/47212405/133686111-6b228499-b41f-40f4-869d-d5b937e56e94.png">
 
 
-### Citation
 
-```
-@misc{schoepf2023unlocking,
-      title={Unlocking Carbon Reduction Potential with Reinforcement Learning for the Three-Dimensional Loading Capacitated Vehicle Routing Problem}, 
-      author={Stefan Schoepf and Stephen Mak and Julian Senoner and Liming Xu and Netland Torbjörn and Alexandra Brintrup},
-      year={2023},
-      eprint={2307.12136},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
